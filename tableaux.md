@@ -5,7 +5,7 @@ description: "tableaux"
 header-img: "img/nature-morte-2.jpg"
 ---
 
-Vous pourrez trouver ci dessous des liens vers différentes galeries thématiques. TEST.
+Vous pourrez trouver ci dessous des liens vers différentes galeries thématiques.
 
 <div align="center">
 
