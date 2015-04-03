@@ -1,0 +1,13 @@
+<div align="center">
+
+{% for tableau in include.gallery %}
+<a href="{{ site.baseurl }}/tableaux/imgs/{{ tableau.id }}.jpg" data-lightbox="image-{{ tableau.id }}" data-title="{{ tableau.name }}"> 
+{% if tableau.orient == "H" %}
+<img src="{{ site.baseurl }}/tableaux/thumbs/{{ tableau.id }}.jpg" width="200" style="border-color:white" style="padding:3px" align="center"/> 
+{% else %}
+<img src="{{ site.baseurl }}/tableaux/thumbs/{{ tableau.id }}.jpg" height="200" style="border-color:white" style="padding:3px" align="center"/> 
+{% endif %}
+</a>&nbsp; 
+{% endfor %}
+
+</div>

@@ -1,0 +1,13 @@
+# Usign the Clean Blog theme
+
+title: Louis Peyré
+email: gabriel.peyre@ceremade.dauphine.fr
+description: Site web du peintre Louis Peyré.
+baseurl: ""
+url: "www.numerical-tours.com"
+github_username:  gpeyre
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+exclude: ["node_modules"]

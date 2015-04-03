@@ -1,0 +1,12 @@
+- name: Natures mortes
+  page: tableaux-natures-mortes
+  img: 4
+  orient: V
+- name: Paysages
+  page: tableaux-paysages
+  img: 443
+  orient: H
+- name: Nus
+  page: tableaux-nus
+  img: 87
+  orient: V

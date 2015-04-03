@@ -1,0 +1,33 @@
+- id: 1
+  name: Une légende
+  orient: V
+- id: 2
+  name: Une autre légende
+  orient: H
+- id: 3
+  name: Une légende
+  orient: V
+- id: 4
+  name: Une légende
+  orient: V
+- id: 5
+  name: Une autre légende
+  orient: H
+- id: 6
+  name: Une légende
+  orient: H
+- id: 7
+  name: Une autre légende
+  orient: H 
+- id: 8
+  name: Une autre légende
+  orient: V
+- id: 9
+  name: Une légende
+  orient: H 
+- id: 10
+  name: Une autre légende
+  orient: V
+- id: 11
+  name: Une légende
+  orient: H
