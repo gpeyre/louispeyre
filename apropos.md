@@ -35,7 +35,7 @@ Expositions personnelles :
 
 * 1948-50-52-59 : Montpellier, galerie Art et Décoration,
 * 1949 : Toulouse,
-* 1950-52 : Perignan, salle Arago,
+* 1950-52 : Perpignan, salle Arago,
 * 1964-66 : Paris 6e, galerie Ambre,
 * 1972-73-75-82, Paris 6e, galerie Le Procope,
 * 1976-78-80 : Sète, Centre Culturel Sétois,
@@ -44,6 +44,16 @@ Expositions personnelles :
 * 1991 : Frontignan, Musée Municipal, avec Louise Bonfils, son épouse,
 * 1995-96-97-98-99-2000-2001 : Paris 6e, Galerie Eleyette Peyre,
 * 2003-04-05-07 : Béziers, Galerie Mercure,
-* 2013 : Sète, galerie Dock Sud".
+* 2013 : Sète, galerie [Dock Sud](http://www.dock-sud.com/).
+
+Exposition collectives :
+
+* 1951 : Paris, Salon d'Automne,
+* 1968-70-72 : Paris, Salon des Artistes Français (médaille d'argent en 1970),
+* 1975 : Paris, Salon "Les peintres témoins de leur temps",
+* 1979-81-83, Paris, Salon des artistes du Ve,
+* 1982 : Sète, Musée Paul Valérie, "Sète vue par les peintres",
+* 1989 : Sète, Espace Fortant de France,
+* 2005 : Sète, Musée Paul Valérie. 
 
 Exposition permanentes : galerie [L'Aquarelle](http://www.galerie-laquarelle.fr/) (au Crozon, Finistère), galerie [Dock Sud](http://www.dock-sud.com/) (Sète).
