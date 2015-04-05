@@ -2,7 +2,7 @@
 layout: page
 title: "Louis Peyré"
 description: "tableaux"
-header-img: "img/natures-mortes.jpg"
+header-img: "img/natures-mortes-2.jpg"
 ---
 
 Vous pourrez trouver ci dessous des liens vers différentes galeries thématiques.

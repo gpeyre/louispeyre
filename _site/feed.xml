@@ -66,12 +66,19 @@
                 <li>
                     <a href="/apropos">Biographie</a>
                 </li>
+                <li>
+                    <a href="/contact">Contact</a>
+                </li>
 
                 <!--
 
                 
                 <li>
-                    <a href="/apropos/">A propos</a>
+                    <a href="/apropos/">Louis Peyré</a>
+                </li>
+                
+                <li>
+                    <a href="/contact/">Louis Peyré</a>
                 </li>
                 
                 <li>
@@ -103,7 +110,19 @@
                 </li>
                 
                 <li>
-                    <a href="/tableaux-paysages/">Louis Peyré</a>
+                    <a href="/tableaux-paysages-beauce/">Louis Peyré</a>
+                </li>
+                
+                <li>
+                    <a href="/tableaux-paysages-orb/">Louis Peyré</a>
+                </li>
+                
+                <li>
+                    <a href="/tableaux-paysages-paris/">Louis Peyré</a>
+                </li>
+                
+                <li>
+                    <a href="/tableaux-paysages-sete/">Louis Peyré</a>
                 </li>
                 
                 <li>
@@ -153,8 +172,8 @@
     <description>Site web du peintre Louis Peyré.</description>
     <link>www.numerical-tours.com/</link>
     <atom:link href="www.numerical-tours.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Apr 2015 15:01:27 +0200</pubDate>
-    <lastBuildDate>Sun, 05 Apr 2015 15:01:27 +0200</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2015 18:11:20 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Apr 2015 18:11:20 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>

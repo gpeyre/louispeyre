@@ -1,11 +1,24 @@
+- name: Paris
+  page: tableaux-paysages-paris
+  img: 235
+  orient: H
+- name: Beauce
+  page: tableaux-paysages-beauce
+  img: 151
+  orient: H
+- name: Sète
+  page: tableaux-paysages-sete
+  img: 388
+  orient: H
+- name: Vallée de l'Orb
+  page: tableaux-paysages-orb
+  img: 156
+  orient: H
+  break: 1
 - name: Natures mortes
   page: tableaux-natures-mortes
   img: 331
   orient: V
-- name: Paysages
-  page: tableaux-paysages
-  img: 388
-  orient: H
 - name: Nus
   page: tableaux-nus
   img: 1654
@@ -14,11 +27,11 @@
   page: tableaux-famille
   img: 103
   orient: V
-  break: 1
 - name: Intérieurs
   page: tableaux-interieurs
   img: 104
   orient: V
+  break: 1
 - name: Portraits
   page: tableaux-portraits
   img: 379

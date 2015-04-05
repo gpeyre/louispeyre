@@ -2,7 +2,7 @@
 layout: page
 title: "Louis Peyré"
 description: "biographie et expositions"
-header-img: "img/gravure-1.jpg"
+header-img: "img/autoportrait.jpg"
 ---
 
 
