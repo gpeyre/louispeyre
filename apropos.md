@@ -52,8 +52,8 @@ Exposition collectives :
 * 1968-70-72 : Paris, Salon des Artistes Français (médaille d'argent en 1970),
 * 1975 : Paris, Salon "Les peintres témoins de leur temps",
 * 1979-81-83, Paris, Salon des artistes du Ve,
-* 1982 : Sète, Musée Paul Valérie, "Sète vue par les peintres",
+* 1982 : Sète, [Musée Paul Valéry](http://museepaulvalery-sete.fr/), "Sète vue par les peintres",
 * 1989 : Sète, Espace Fortant de France,
-* 2005 : Sète, Musée Paul Valérie. 
+* 2005 : Sète, [Musée Paul Valéry](http://museepaulvalery-sete.fr/).
 
 Exposition permanentes : galerie [L'Aquarelle](http://www.galerie-laquarelle.fr/) (au Crozon, Finistère), galerie [Dock Sud](http://www.dock-sud.com/) (Sète).
