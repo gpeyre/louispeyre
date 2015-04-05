@@ -2,7 +2,7 @@
 layout: page
 title: "Louis Peyré"
 description: "tableaux"
-header-img: "img/nature-morte-2.jpg"
+header-img: "img/natures-mortes.jpg"
 ---
 
 Vous pourrez trouver ci dessous des liens vers différentes galeries thématiques.
@@ -24,6 +24,9 @@ Vous pourrez trouver ci dessous des liens vers différentes galeries thématique
 	<br/>
 	{{ gal.name }}
 	</td>
+	{% if gal.break == 1 %}
+		</tr>	<tr>
+	{% endif %}
 {% endfor %}
 </tr>
 

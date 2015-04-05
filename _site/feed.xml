@@ -83,6 +83,18 @@
                 </li>
                 
                 <li>
+                    <a href="/tableaux-copies/">Louis Peyré</a>
+                </li>
+                
+                <li>
+                    <a href="/tableaux-famille/">Louis Peyré</a>
+                </li>
+                
+                <li>
+                    <a href="/tableaux-interieurs/">Louis Peyré</a>
+                </li>
+                
+                <li>
                     <a href="/tableaux-natures-mortes/">Louis Peyré</a>
                 </li>
                 
@@ -92,6 +104,14 @@
                 
                 <li>
                     <a href="/tableaux-paysages/">Louis Peyré</a>
+                </li>
+                
+                <li>
+                    <a href="/tableaux-portraits/">Louis Peyré</a>
+                </li>
+                
+                <li>
+                    <a href="/tableaux-scenes/">Louis Peyré</a>
                 </li>
                 
                 <li>
@@ -133,8 +153,8 @@
     <description>Site web du peintre Louis Peyré.</description>
     <link>www.numerical-tours.com/</link>
     <atom:link href="www.numerical-tours.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 03 Apr 2015 08:41:49 +0200</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2015 08:41:49 +0200</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2015 14:58:04 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Apr 2015 14:58:04 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>

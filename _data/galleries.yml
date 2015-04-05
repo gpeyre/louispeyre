@@ -1,12 +1,33 @@
 - name: Natures mortes
   page: tableaux-natures-mortes
-  img: 4
+  img: 331
   orient: V
 - name: Paysages
   page: tableaux-paysages
-  img: 443
+  img: 388
   orient: H
 - name: Nus
   page: tableaux-nus
-  img: 87
+  img: 1654
+  orient: H
+- name: Le peintre et sa famille
+  page: tableaux-famille
+  img: 103
+  orient: V
+  break: 1
+- name: Intérieurs
+  page: tableaux-interieurs
+  img: 104
+  orient: V
+- name: Portraits
+  page: tableaux-portraits
+  img: 379
+  orient: V
+- name: Scènes de vie
+  page: tableaux-scenes
+  img: 1636
+  orient: H
+- name: Copies
+  page: tableaux-copies
+  img: 573
   orient: V
