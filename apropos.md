@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "A propos"
-description: "du peintre Louis Peyré"
+title: "Louis Peyré"
+description: "biographie et expositions"
 header-img: "img/gravure-1.jpg"
 ---
 
