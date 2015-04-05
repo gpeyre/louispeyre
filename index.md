@@ -2,7 +2,7 @@
 layout: page
 title: "Louis Peyré"
 description: "Peintre"
-header-img: "img/toits.jpg"
+header-img: "img/paysages-2.jpg"
 ---
 
 Bienvenue sur le site du peintre Louis Peyré (1923-2012).
