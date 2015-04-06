@@ -33,25 +33,25 @@ Expositions
 
 Expositions personnelles :
 
-* 1948-50-52-59 : Montpellier, galerie Art et Décoration,
+* 1948, 1950, 1952, 1959 : Montpellier, galerie Art et Décoration,
 * 1949 : Toulouse,
-* 1950-52 : Perpignan, salle Arago,
-* 1964-66 : Paris 6e, galerie Ambre,
-* 1972-73-75-82, Paris 6e, [Le Procope](http://www.procope.com/),
-* 1976-78-80 : Sète, Centre Culturel Sétois,
+* 1950, 1952 : Perpignan, salle Arago,
+* 1964, 1966 : Paris 6e, galerie Ambre,
+* 1972, 1973, 1975, 1982, Paris 6e, [Le Procope](http://www.procope.com/),
+* 1976, 1978, 1980 : Sète, Centre Culturel Sétois,
 * 1987 : Neuburg (Allemagne),
-* 1989-90 : Montpellier, galerie Espace Art 17 International,
+* 1989, 1990 : Montpellier, galerie Espace Art 17 International,
 * 1991 : Frontignan, Musée Municipal, avec Louise Bonfils, son épouse,
-* 1995-96-97-98-99-2000-2001 : Paris 6e, Galerie Eleyette Peyre,
-* 2003-04-05-07 : Béziers, Galerie Mercure,
+* 1995, 1996, 1997, 1998, 1999, 2000, 2001 : Paris 6e, Galerie Elyette Peyre,
+* 2003, 2004, 2005, 2007 : Béziers, Galerie Mercure,
 * 2013 : Sète, galerie [Dock Sud](http://www.dock-sud.com/).
 
 Expositions collectives :
 
 * 1951 : Paris, Salon d'Automne,
-* 1968-70-72 : Paris, Salon des Artistes Français (médaille d'argent en 1970),
+* 1968, 1970, 1972 : Paris, Salon des Artistes Français (médaille d'argent en 1970),
 * 1975 : Paris, Salon "Les peintres témoins de leur temps",
-* 1979-81-83, Paris, Salon des artistes du Ve,
+* 1979, 1981, 1983, Paris, Salon des artistes du Ve,
 * 1982 : Sète, [Musée Paul Valéry](http://museepaulvalery-sete.fr/), "Sète vue par les peintres",
 * 1989 : Sète, Espace Fortant de France,
 * 2005 : Sète, [Musée Paul Valéry](http://museepaulvalery-sete.fr/).
