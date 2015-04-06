@@ -1,3 +1,28 @@
+- name: Intérieurs
+  page: tableaux-interieurs
+  img: 104
+  orient: V
+  break: 1
+- name: Portraits
+  page: tableaux-portraits
+  img: 379
+  orient: V
+- name: Le peintre et sa famille
+  page: tableaux-famille
+  img: 103
+  orient: V
+- name: Scènes de vie
+  page: tableaux-scenes
+  img: 1636
+  orient: H
+- name: Nus
+  page: tableaux-nus
+  img: 1654
+  orient: H
+- name: Natures mortes
+  page: tableaux-natures-mortes
+  img: 331
+  orient: V
 - name: Paris
   page: tableaux-paysages-paris
   img: 235
@@ -15,31 +40,6 @@
   img: 156
   orient: H
   break: 1
-- name: Natures mortes
-  page: tableaux-natures-mortes
-  img: 331
-  orient: V
-- name: Nus
-  page: tableaux-nus
-  img: 1654
-  orient: H
-- name: Le peintre et sa famille
-  page: tableaux-famille
-  img: 103
-  orient: V
-- name: Intérieurs
-  page: tableaux-interieurs
-  img: 104
-  orient: V
-  break: 1
-- name: Portraits
-  page: tableaux-portraits
-  img: 379
-  orient: V
-- name: Scènes de vie
-  page: tableaux-scenes
-  img: 1636
-  orient: H
 - name: Copies
   page: tableaux-copies
   img: 573
