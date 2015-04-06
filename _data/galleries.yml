@@ -2,7 +2,6 @@
   page: tableaux-interieurs
   img: 104
   orient: V
-  break: 1
 - name: Portraits
   page: tableaux-portraits
   img: 379
@@ -15,6 +14,7 @@
   page: tableaux-scenes
   img: 1636
   orient: H
+  break: 1
 - name: Nus
   page: tableaux-nus
   img: 1654
@@ -31,6 +31,7 @@
   page: tableaux-paysages-beauce
   img: 151
   orient: H
+  break: 1
 - name: Sète
   page: tableaux-paysages-sete
   img: 388
@@ -39,7 +40,6 @@
   page: tableaux-paysages-orb
   img: 156
   orient: H
-  break: 1
 - name: Copies
   page: tableaux-copies
   img: 573
