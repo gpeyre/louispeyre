@@ -44,3 +44,7 @@
   page: tableaux-copies
   img: 573
   orient: V
+- name: Gravures
+  page: tableaux-gravures
+  img: 849
+  orient: V
