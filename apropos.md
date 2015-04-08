@@ -19,7 +19,7 @@ De 1945 à 1947, sa formation artistique se fait aux [Beaux-Arts de Montpellier]
 
 Après son mariage en 1950 avec Louise Bonfils, veuve du peintre André Blondel, il s'installe à Paris. Il y suit les cours de la ville de Paris (école Montparnasse et école de la place des Vosges) en dessin, peinture, gravure et sculpture. Il étudie aussi "le modèle vivant" à l'[Académie de la Grande Chaumière](http://www.grande-chaumiere.fr/fr/), sous la direction du peintre [Yves Brayer](http://fr.wikipedia.org/wiki/Yves_Brayer).
 
-Il découvre dans les musées parisiens la peinture espagnole et hollandaise du 17e siècle ainsi que les peintres [Constable](http://fr.wikipedia.org/wiki/John_Constable), [Courbet](http://fr.wikipedia.org/wiki/Gustave_Courbet), [Cézanne](http://fr.wikipedia.org/wiki/Paul_C%C3%A9zanne), [Bazille](http://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bazille) et [Bonnard](http://fr.wikipedia.org/wiki/Pierre_Bonnard). Sa technique est plus maitrisée et il l'utilise pour des compositions non conventionnelles. Les êtres, les objets, les paysages ne sont pas décoratifs. C'est un art intimiste, mesuré, dépouillé de recherches esthétiques : il frappe pourtant au cœur du sujet. Les scènes, empreintes de sensibilité sont vivantes, grâce à un dessin ferme et une touche picturale vigoureuse très terrienne.
+Il découvre dans les musées parisiens la peinture espagnole et hollandaise du 17e siècle ainsi que les peintres [Constable](http://fr.wikipedia.org/wiki/John_Constable), [Courbet](http://fr.wikipedia.org/wiki/Gustave_Courbet), [Cézanne](http://fr.wikipedia.org/wiki/Paul_C%C3%A9zanne), [Bazille](http://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bazille) et [Bonnard](http://fr.wikipedia.org/wiki/Pierre_Bonnard). Sa technique est plus maitrisée et il l'utilise pour des compositions non conventionnelles. Les êtres, les objets, les paysages ne sont pas décoratifs. C'est un art intimiste, mesuré, dépouillé de recherches esthétiques : il frappe pourtant au cœur du sujet. Les scènes, empreintes de sensibilité, sont vivantes, grâce à un dessin ferme et une touche picturale vigoureuse très terrienne.
 
 Les tons assourdis des années 60 à 80 cèdent la place petit à petit à des teintes plus éclatantes et lumineuses. Le rai de lumière qui traverse ses tableaux agrandit l'espace et nous fait voir l'essence du sujet.
 
@@ -56,4 +56,4 @@ Expositions collectives :
 * 1989 : Sète, Espace Fortant de France,
 * 2005 : Sète, [Musée Paul Valéry](http://museepaulvalery-sete.fr/).
 
-Exposition permanentes : galerie [L'Aquarelle](http://www.galerie-laquarelle.fr/) (au Crozon, Finistère), galerie [Dock Sud](http://www.dock-sud.com/) (Sète).
+Expositions permanentes : galerie [L'Aquarelle](http://www.galerie-laquarelle.fr/) (au Crozon, Finistère), galerie [Dock Sud](http://www.dock-sud.com/) (Sète).

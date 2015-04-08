@@ -23,20 +23,20 @@
   page: tableaux-natures-mortes
   img: 331
   orient: V
-- name: Paris
+- name: Paysages de Paris
   page: tableaux-paysages-paris
   img: 235
   orient: H
-- name: Beauce
+- name: Paysages de Beauce
   page: tableaux-paysages-beauce
   img: 151
   orient: H
   break: 1
-- name: Sète
+- name: Paysages de Sète
   page: tableaux-paysages-sete
   img: 388
   orient: H
-- name: Vallée de l'Orb
+- name: Paysages de la vallée de l'Orb
   page: tableaux-paysages-orb
   img: 156
   orient: H
