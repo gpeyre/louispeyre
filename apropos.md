@@ -28,6 +28,7 @@ Au cours de sa longue vie, centrée sur sa femme et ses enfants, il peint et des
 Il laisse une œuvre importante et variée. Sans signe religieux, elle exprime la spiritualité du quotidien et sa beauté.
 
 
+
 Expositions
 -------------------
 
@@ -57,3 +58,6 @@ Expositions collectives :
 * 2005 : Sète, [Musée Paul Valéry](http://museepaulvalery-sete.fr/).
 
 Expositions permanentes : galerie [L'Aquarelle](http://www.galerie-laquarelle.fr/) (au Crozon, Finistère), galerie [Dock Sud](http://www.dock-sud.com/) (Sète).
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Le texte de cette page est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>.
