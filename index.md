@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Louis Peyré"
-description: "Peintre"
+description: "Artiste peintre"
 header-img: "img/paysages-2.jpg"
 ---
 
