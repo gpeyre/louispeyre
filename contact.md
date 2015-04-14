@@ -12,7 +12,7 @@ Vous pouvez [nous contacter](mailto:gabriel.peyre@ceremade.dauphine.fr,jm.mathie
 
 
 
-Crédits photos
+Crédits photographiques
 ----------------
 
-Les photos des tableaux ont été réalisées par Guillaume Bernard.
+Les photographies des tableaux ont été réalisées par [Guillaume Bernard](mailto:guillaume.bernard@gmx.fr), consultant en inventaire du patrimoine culturel.
