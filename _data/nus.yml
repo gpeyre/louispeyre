@@ -1,21 +1,35 @@
 - id: 787
-  name: --
+  name: "Le repos du mod&egrave;le"
   orient: V
+  size: 50F
+  date: 1975
 - id: 793
-  name: --
+  name: "St Romain"
   orient: V
+  size: 90,5x57
+  date: 1969
 - id: 1588
-  name: --
+  name: "Nu sur le canap&eacute;"
   orient: H
+  size: 15F
+  date: ann&eacute;es 1980
 - id: 1612
-  name: --
+  name: "Femme nue assise par terre"
   orient: V
+  size: 20P
+  date: ann&eacute;es 1960
 - id: 1620
-  name: --
+  name: "Homme nu assis"
   orient: V
+  size: 52,5x75
+  date: ann&eacute;es 1960
 - id: 1654
-  name: --
+  name: "Nu allong&eacute;"
   orient: H
+  size: 15F
+  date: ann&eacute;es 1990
 - id: 1656
-  name: --
+  name: "Nu assis"
   orient: V
+  size: 25F
+  date: ann&eacute;es 1990

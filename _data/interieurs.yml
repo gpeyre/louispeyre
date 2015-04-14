@@ -1,36 +1,60 @@
 - id: 14
-  name: --
+  name: "Le couloir"
   orient: V
+  size: 25M
+  date: 1973
 - id: 80
-  name: --
+  name: "Le coucher"
   orient: H
+  size: 15F
+  date: 1956
 - id: 104
-  name: --
+  name: "Int&eacute;rieur devant fen&ecirc;tre enneig&eacute;e"
   orient: V
+  size: 30P
+  date: 1963
 - id: 646
-  name: --
+  name: "Au petit d&eacute;jeuner"
   orient: V
+  size: 10F
+  date: 1959
 - id: 1323
-  name: --
+  name: "La cuisine"
   orient: V
+  size: 10F
+  date: 1988
 - id: 24
-  name: --
+  name: "Le feu de bois"
   orient: V
+  size: 12F
+  date: 1988
 - id: 247
-  name: --
+  name: "Le coin de l&#39;&eacute;vier"
   orient: V
+  size: 8F
+  date: 1960
 - id: 1287
-  name: --
+  name: "Int&eacute;rieur"
   orient: H
+  size: 20F
+  date: 1958
 - id: 1449
-  name: --
+  name: "L&#39;escalier"
   orient: V
+  size: 20F
+  date: ann&eacute;es 1980
 - id: 1585
-  name: --
+  name: "La Roseraie - Atelier"
   orient: H
+  size: 25F
+  date: 1986
 - id: 1808
-  name: --
+  name: "La cuisine"
   orient: V
+  size: 6F
+  date: ann&eacute;es 1990
 - id: 139
-  name: --
+  name: "St Gervais et Protay"
   orient: V
+  size: 30F
+  date: 1972

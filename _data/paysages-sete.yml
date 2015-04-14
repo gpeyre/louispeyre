@@ -1,24 +1,40 @@
 - id: 388
-  name: --
+  name: "S&egrave;te - Le Souras-bas"
   orient: H
+  size: 12P
+  date: 1975
 - id: 1093
-  name: --
+  name: "Chalutier aux filets rouges"
   orient: H
+  size: 8P
+  date: 1993
 - id: 1106
-  name: --
+  name: "Le matin, le port de S&egrave;te vu du chemin du Midi"
   orient: H
+  size: 8P
+  date: 1981
 - id: 1128
-  name: --
+  name: "Apr&egrave;s le coucher du soleil - Corniche - S&egrave;te"
   orient: H
+  size: 8P
+  date: 1988
 - id: 1130
-  name: --
+  name: "Plage"
   orient: H
+  size: 10P
+  date: ann&eacute;es 1980
 - id: 1534
-  name: --
+  name: "&quot;L&#39;Amadeus&quot; au canal maritime"
   orient: V
+  size: 15F
+  date: 2011
 - id: 1683
-  name: --
+  name: "Une rue &agrave; S&egrave;te ?"
   orient: V
+  size: 8P
+  date: ann&eacute;es 1990
 - id: 1755
-  name: --
+  name: "S&egrave;te - Bateaux de p&egrave;che"
   orient: H
+  size: 5F
+  date: ann&eacute;es 2000

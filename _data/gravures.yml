@@ -1,63 +1,105 @@
 - id: 838
-  name: --
+  name: "L&#39;escalier"
   orient: V
+  size: 25x33 (feuille)
+  date: ann&eacute;es 1970
 - id: 845
-  name: --
+  name: "Nu debout devant la grande baie"
   orient: V
+  size: 27,6x37,8 (feuille)
+  date: ann&eacute;es 1980
 - id: 849
-  name: --
+  name: "L&#39;atelier d&#39;imprimerie"
   orient: V
+  size: 28,5x38,4 (feuille)
+  date: ann&eacute;es 1980
 - id: 891
-  name: --
+  name: "Une charrette devant un village"
   orient: H
+  size: 33x25 (feuille)
+  date: ann&eacute;es 1970
 - id: 897
-  name: --
+  name: "Chevet de St-Nicolas du Chardonnet"
   orient: V
+  size: 25,2x33 (feuille)
+  date: ann&eacute;es 1970
 - id: 931
-  name: --
+  name: "Grues sur le port de S&egrave;te"
   orient: H
+  size: 38,5x28,5 (feuille la plus grande)
+  date: ann&eacute;es 1980
 - id: 934
-  name: --
+  name: "Labours dans les vignes vers Saint-Pons-de-Mauchiens"
   orient: V
+  size: 28x38 (feuille)
+  date: ann&eacute;es 1980
 - id: 935
-  name: --
+  name: "La cuisine"
   orient: H
+  size: 33x25 (feuille la plus petite)
+  date: ann&eacute;es 1970 1980
 - id: 937
-  name: --
+  name: "Le battage du bl&eacute;"
   orient: H
+  size: 38x28 (feuille)
+  date: ann&eacute;es 1980
 - id: 950
-  name: --
+  name: "La cave, &agrave; la pompe"
   orient: H
+  size: 38x28 (feuille)
+  date: ann&eacute;es 1970
 - id: 959
-  name: --
+  name: "La gare d&#39;Austerlitz"
   orient: H
+  size: 38x28,3 (feuille la plus grande)
+  date: ann&eacute;es 1960
 - id: 974
-  name: --
+  name: "L&#39;orage sur la plaine - Paray-Douaville"
   orient: H
+  size: 37x26 (feuille)
+  date: ann&eacute;es 1980
 - id: 976
-  name: --
+  name: "La parade des jouteurs . S&egrave;te"
   orient: H
+  size: 32,5x26 (feuille)
+  date: ann&eacute;es 1970
 - id: 989
-  name: --
+  name: "Labours en Beauce"
   orient: H
+  size: 51x32,7 (feuille)
+  date: ann&eacute;es 1980
 - id: 992
-  name: --
+  name: "Le fort"
   orient: H
+  size: 33x25 (feuille)
+  date: ann&eacute;es 1980
 - id: 1002
-  name: --
+  name: "Le Lau, la nuit"
   orient: V
+  size: 28,5x37,8 (feuille)
+  date: ann&eacute;es 1980
 - id: 2021
-  name: --
+  name: "La marine"
   orient: H
+  size: 43,3x32,2 (feuille la plus grande)
+  date: ann&eacute;es 1980
 - id: 2028
-  name: --
+  name: "Les grandes joutes "
   orient: H
+  size: 38x28,5 (feuille la plus grande)
+  date: ann&eacute;es 1980
 - id: 2030
-  name: --
+  name: "Sc&egrave;ne de plage en &eacute;t&eacute;"
   orient: H
+  size: 50x32,5 (feuille la plus grande)
+  date: ann&eacute;es 1980
 - id: 2033
-  name: --
+  name: "Le hamac ou Jeune fille au hamac "
   orient: H
+  size: 38x28,5 (feuille la plus grande)
+  date: ann&eacute;es 1980
 - id: 2057
-  name: --
+  name: "Barques et filets. Pointe-Courte"
   orient: H
+  size: 38x28
+  date: ann&eacute;es 1980

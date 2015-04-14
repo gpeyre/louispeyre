@@ -1,24 +1,40 @@
 - id: 235
-  name: --
+  name: "Ecluse de la Bastille - Canal St Martin"
   orient: H
+  size: 10P
+  date: 1961
 - id: 248
-  name: --
+  name: "Vue du balcon"
   orient: V
+  size: 10P
+  date: 1966
 - id: 315
-  name: --
+  name: "Le vasistas ouvert. Vue sur les toits"
   orient: V
+  size: 6F
+  date: 1970
 - id: 392
-  name: --
+  name: "Nuit et pluie - Place St M&eacute;dard"
   orient: V
+  size: 12F
+  date: 1968
 - id: 699
-  name: --
+  name: "Immeubles"
   orient: V
+  size: 10P
+  date: ann&eacute;es 1960
 - id: 809
-  name: --
+  name: "Le &quot;Home Latin&quot; "
   orient: V
+  size: 30F
+  date: 2002
 - id: 1445
-  name: --
+  name: "Chevet de St-Nicolas du Chardonnet"
   orient: V
+  size: 20F
+  date: ann&eacute;es 1980
 - id: 1774
-  name: --
+  name: "Le boulevard St-Germain et le chevet de St-Nicolas du Chardonnet"
   orient: V
+  size: 10F
+  date: ann&eacute;es 2000

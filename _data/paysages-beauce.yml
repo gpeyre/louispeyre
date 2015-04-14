@@ -1,18 +1,30 @@
 - id: 151
-  name: --
+  name: "A l&#39;or&eacute;e d&#39;un bois - pr&egrave;s d&#39;Ablis"
   orient: H
+  size: 6F
+  date: 1976
 - id: 557
-  name: --
+  name: "Les meules"
   orient: H
+  size: 10P
+  date: 1970
 - id: 566
-  name: --
+  name: "Champs &agrave; Paray-Douaville"
   orient: H
+  size: 12P
+  date: 1970
 - id: 631
-  name: --
+  name: "Entr&eacute;e &agrave; Paray"
   orient: V
+  size: 20F
+  date: 1975
 - id: 1295
-  name: --
+  name: "Paysage en Beauce"
   orient: H
+  size: 10P
+  date: 1960
 - id: 1307
-  name: --
+  name: "L&#39;automne &agrave; Douaville"
   orient: H
+  size: 15F
+  date: 1979

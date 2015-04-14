@@ -1,27 +1,45 @@
 - id: 218-a
-  name: --
+  name: "Portrait d&#39;une jeune fille"
   orient: V
+  size: 5F
+  date: ann&eacute;es 1970
 - id: 384
-  name: --
+  name: "La jeune fille anglaise aux tilleuls"
   orient: V
+  size: 12P
+  date: ann&eacute;es 1970
 - id: 1674
-  name: --
+  name: "Portrait d&#39;un jeune gar&ccedil;on"
   orient: V
+  size: 8F
+  date: ann&eacute;es 1960
 - id: 32
-  name: --
+  name: "Mr Georges Trembley"
   orient: V
+  size: 25F
+  date: 1990
 - id: 77
-  name: --
+  name: "Lisou au manteau brun"
   orient: V
+  size: 25M
+  date: 1968
 - id: 379
-  name: --
+  name: "Une d&#39;origine polonaise"
   orient: V
+  size: 12P
+  date: 1986
 - id: 505
-  name: --
+  name: "A&iuml;da"
   orient: V
+  size: 10F
+  date: 1967
 - id: 1685
-  name: --
+  name: "Homme fumant la pipe"
   orient: V
+  size: 10F
+  date: ann&eacute;es 1960
 - id: 1697
-  name: --
+  name: "Portrait d&#39;homme"
   orient: V
+  size: 15F
+  date: ann&eacute;es 1970

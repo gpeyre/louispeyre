@@ -1,21 +1,35 @@
 - id: 156
-  name: --
+  name: "Le Cep - vue de la route de Roquebrun"
   orient: H
+  size: 8P
+  date: 1982
 - id: 773
-  name: --
+  name: "Les gorges de l&#39;Orb au pont de Comps"
   orient: H
+  size: 15M
+  date: 1988
 - id: 1370
-  name: --
+  name: "Le Lau la nuit"
   orient: H
+  size: 20P
+  date: ann&eacute;es 1980
 - id: 1465
-  name: --
+  name: "Automne dans la vall&eacute;e de l&#39;Orb - &agrave; Tarrassac - La vigne jaune"
   orient: H
+  size: 10M
+  date: 1983
 - id: 1469
-  name: --
+  name: "Pont sur l&#39;Orb &agrave; Vieussan"
   orient: H
+  size: 10F
+  date: 1981
 - id: 1887
-  name: --
+  name: ""
   orient: H
+  size: 
+  date: 
 - id: 707
-  name: --
+  name: "La combe de la Fontvieille"
   orient: V
+  size: 8P
+  date: 1947

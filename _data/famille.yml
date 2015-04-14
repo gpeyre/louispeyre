@@ -1,21 +1,35 @@
 - id: 35
-  name: --
+  name: "Auto-portrait &agrave; la chandelle"
   orient: V
+  size: 15F
+  date: ann&eacute;es 1970
 - id: 103
-  name: --
+  name: "Le peintre devant nature morte et glace"
   orient: V
+  size: 30F
+  date: ann&eacute;es 1980
 - id: 1682
-  name: --
+  name: "Autoportrait"
   orient: V
+  size: 8F
+  date: ann&eacute;es 1980
 - id: 790
-  name: --
+  name: "Enfants jouant sur la plage"
   orient: H
+  size: 86x110
+  date: ann&eacute;es 1970
 - id: 797
-  name: --
+  name: "Les &quot;4 heures&quot; sous la v&eacute;randa"
   orient: H
+  size: 50F
+  date: 1994
 - id: 1632
-  name: --
+  name: "Apr&egrave;s-midi festive &agrave; la Roseraie"
   orient: V
+  size: 50P
+  date: ann&eacute;es 2000
 - id: 1634
-  name: --
+  name: "Sc&egrave;nes de vie familiale"
   orient: V
+  size: 40F
+  date: ann&eacute;es 2000

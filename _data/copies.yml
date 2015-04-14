@@ -1,12 +1,20 @@
 - id: 146
-  name: --
+  name: "Les Sabines - David"
   orient: H
+  size: 120M
+  date: 1958
 - id: 43
-  name: --
+  name: "Suranne au bain"
   orient: H
+  size: 25P
+  date: 1955
 - id: 573
-  name: --
+  name: "Vierge et l&#39;enfant &agrave; la colombe - Piero di Cosimo"
   orient: V
+  size: 20P
+  date: 1980
 - id: 1427
-  name: --
+  name: "La chasse - Annibal Carrache"
   orient: H
+  size: 25P
+  date: ann&eacute;es 1950

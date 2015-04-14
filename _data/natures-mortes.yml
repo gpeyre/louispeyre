@@ -1,24 +1,40 @@
 - id: 48
-  name: --
+  name: "La poup&eacute;e cass&eacute;e "
   orient: V
+  size: 15F
+  date: 1991
 - id: 331
-  name: --
+  name: "Nature morte &agrave; la cigogne"
   orient: V
+  size: 40F
+  date: ann&eacute;es 1980
 - id: 343
-  name: --
+  name: "Nature morte au bouquet de fleurs"
   orient: H
+  size: 12F
+  date: ann&eacute;es 1970
 - id: 366
-  name: --
+  name: "Nature morte &agrave; l&#39;&eacute;toile de mer"
   orient: H
+  size: 12P
+  date: ann&eacute;es 1980
 - id: 368
-  name: --
+  name: "Nature morte &agrave; l&#39;oignon"
   orient: H
+  size: 12P
+  date: ann&eacute;es 1970
 - id: 547
-  name: --
+  name: "Le lit d&eacute;fait"
   orient: H
+  size: 15P
+  date: 1949
 - id: 599
-  name: --
+  name: "Nature morte. Flacon, coupe, rouleau"
   orient: H
+  size: 15F
+  date: 1989
 - id: 616
-  name: --
+  name: "Le bouquet fan&eacute;"
   orient: V
+  size: 15F
+  date: 1977
