@@ -4,7 +4,7 @@
   size: 8P
   date: 1982
 - id: 773
-  name: "Les gorges de l&#39;Orb au pont de Comps"
+  name: "Les gorges de l&#39;Orb"
   orient: H
   size: 15M
   date: 1988
@@ -24,10 +24,10 @@
   size: 10F
   date: 1981
 - id: 1887
-  name: ""
+  name: "L&#39;Orb au pont de Camps"
   orient: H
-  size: 
-  date: 
+  size: 15F
+  date: 1983
 - id: 707
   name: "La combe de la Fontvieille"
   orient: V
