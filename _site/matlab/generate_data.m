@@ -76,6 +76,9 @@ for i=1:length(L)
         if isnan(date)
             date = '';
         end
+        if not(isstr(date))
+            date = num2str(date);
+        end
         date = html_char(date);
         date = strrep(date, ' ?', '');
         % generate mesure
