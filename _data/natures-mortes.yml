@@ -38,3 +38,53 @@
   orient: V
   size: 15F
   date: 1977
+- id: 50
+  name: "Nature morte aux poissons"
+  orient: V
+  size: 15F
+  date: 1983
+- id: 97
+  name: "Nature morte. Oignons, panier, po�le"
+  orient: H
+  size: 25F
+  date: 1955
+- id: 611
+  name: "Dalhias et h&eacute;liacanthas"
+  orient: V
+  size: 12F
+  date: 1960
+- id: 710
+  name: "Les champignons"
+  orient: H
+  size: 8F
+  date: 1980
+- id: 1043
+  name: "Le fourneau blanc"
+  orient: V
+  size: 8F
+  date: 1947
+- id: 358
+  name: "Mandoline"
+  orient: V
+  size: 12F
+  date: 1981
+- id: 1053
+  name: "Pommes vertes"
+  orient: H
+  size: 5P
+  date: 1955
+- id: 1028
+  name: "Le balcon"
+  orient: V
+  size: 20F
+  date: ann&eacute;es 1990
+- id: 1382
+  name: "Le vase de g&eacute;raniums"
+  orient: H
+  size: 10F
+  date: 1958
+- id: 2331
+  name: "Le moulin &agrave; l&eacute;gumes"
+  orient: H
+  size: 12F
+  date: 1997

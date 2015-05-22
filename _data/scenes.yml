@@ -28,3 +28,18 @@
   orient: H
   size: 20P
   date: 1984
+- id: 2069
+  name: "Femmes devisant sur une terrasse"
+  orient: H
+  size: 20F
+  date: ann&eacute;es 1990
+- id: 1477
+  name: "Cave au portail entr&#39;ouvert"
+  orient: H
+  size: 12F
+  date: 1971
+- id: 1637
+  name: "Int&eacute;rieur de cave - Campagnan"
+  orient: H
+  size: 20P
+  date: 1968

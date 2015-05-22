@@ -33,3 +33,18 @@
   orient: V
   size: 40F
   date: ann&eacute;es 2000
+- id: 799
+  name: "Apr&egrave;s-midi sur la terrasse"
+  orient: H
+  size: 40F
+  date: 1959
+- id: 131
+  name: "L&#39;apr&egrave;s-midi &agrave; Paray-Douaville"
+  orient: H
+  size: 40F
+  date: 1999
+- id: 1652
+  name: "Autoportrait"
+  orient: V
+  size: 20F
+  date: ann&eacute;es 1970

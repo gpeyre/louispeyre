@@ -28,3 +28,38 @@
   orient: H
   size: 15F
   date: 1979
+- id: 1316
+  name: "Combe de la Balastiere - Lenainville"
+  orient: H
+  size: 10F
+  date: 1960
+- id: 1134
+  name: "Le couchant sur la plaine"
+  orient: H
+  size: 47x30
+  date: 1978
+- id: 318
+  name: "La mare de Paray-Douaville"
+  orient: H
+  size: 8P
+  date: 1959
+- id: 674
+  name: "La brouette"
+  orient: H
+  size: 10P
+  date: 1979
+- id: 513
+  name: "Le champ d&#39;orge"
+  orient: H
+  size: 12P
+  date: 1979
+- id: 178
+  name: "Vue de la fen&ecirc;tre"
+  orient: V
+  size: 6F
+  date: 1962
+- id: 1702
+  name: "La marre"
+  orient: H
+  size: 10P
+  date: ann&eacute;es 1970

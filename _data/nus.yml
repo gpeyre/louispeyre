@@ -33,3 +33,38 @@
   orient: V
   size: 25F
   date: ann&eacute;es 1990
+- id: 407
+  name: "Nu assis"
+  orient: V
+  size: 15F
+  date: 1960
+- id: 1616
+  name: "Femme nue assise sur un fauteuil"
+  orient: V
+  size: 15M
+  date: ann&eacute;es 1990
+- id: 1875
+  name: "Femme dans sa baignoire"
+  orient: V
+  size: 10F
+  date: ann&eacute;es 1960
+- id: 115
+  name: "Nu au turban"
+  orient: V
+  size: 30M
+  date: 1964
+- id: 142
+  name: "Nu sur un divan"
+  orient: H
+  size: 40F
+  date: 1968
+- id: 783
+  name: "Nu - torse de femme"
+  orient: V
+  size: 106x75
+  date: 1965
+- id: 120
+  name: "Sur tapis marocain, nu couch&eacute; de dos - fond bleu"
+  orient: H
+  size: 30P
+  date: 1989

@@ -38,3 +38,44 @@
   orient: V
   size: 10F
   date: ann&eacute;es 2000
+- id: 664
+  name: "Quai de la Rap&eacute;e et pont d&#39;Austerlitz"
+  orient: H
+  size: 8P
+  date: 1980
+- id: 1126
+  name: "Les chemin&eacute;es"
+  orient: H
+  size: 8F
+  date: 1991
+- id: 45
+  name: "Le c&egrave;dre du jardin des plantes"
+  orient: H
+  size: 12F
+  date: 1978
+- id: 233
+  name: "Fen&ecirc;tre"
+  orient: V
+  size: 10P
+  date: 1968
+- id: 1113
+  name: "Chalutier-remorqueur - Quai Henri IV"
+  orient: H
+  size: 6P
+  date: 1965
+- id: 1051
+  name: "Matin aux Ar&egrave;nes de Lut&egrave;ce"
+  orient: H
+  size: 8F
+  date: 1965
+- id: 433
+  name: "
+"
+  orient: V
+  size: 15P
+  date: 1975
+- id: 785
+  name: "D&eacute;chargement d&#39;une p&eacute;niche"
+  orient: H
+  size: 60F
+  date: ann&eacute;es 1960

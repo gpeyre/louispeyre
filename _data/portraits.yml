@@ -43,3 +43,33 @@
   orient: V
   size: 15F
   date: ann&eacute;es 1970
+- id: 1392
+  name: "Ir&egrave;ne &agrave; la poup&eacute;e"
+  orient: V
+  size: 12F
+  date: ann&eacute;es 1950
+- id: 1391
+  name: "L&#39;enfant &agrave; l&#39;orange"
+  orient: V
+  size: 35x55
+  date: 1959
+- id: 728
+  name: "Misou "
+  orient: V
+  size: 6F
+  date: 1980
+- id: 490
+  name: "Portrait de femme"
+  orient: V
+  size: 12F
+  date: ann&eacute;es 1970
+- id: 502
+  name: "Portrait d&#39;un jeune homme barbu"
+  orient: V
+  size: 12F
+  date: ann&eacute;es 1980
+- id: 577
+  name: "Le fermier beauceron"
+  orient: V
+  size: 15F
+  date: 1974

@@ -23,13 +23,48 @@
   orient: H
   size: 10F
   date: 1981
-- id: 1887
-  name: "L&#39;Orb au pont de Camps"
+- id: 1110
+  name: "Un cours d&#39;eau"
+  orient: V
+  size: 8F
+  date: ann&eacute;es 1990
+- id: 1495
+  name: "Le moulin de Vieussan - La vall&eacute;e de l&#39;Orb"
   orient: H
-  size: 15F
+  size: 12P
   date: 1983
+- id: 1953
+  name: "La vall&eacute;e de l&#39;Orb en automne"
+  orient: H
+  size: 6F
+  date: ann&eacute;es 1990
+- id: 1493
+  name: "La vall&eacute;e de l&#39;Orb et le Carroux"
+  orient: H
+  size: 12F
+  date: 1988
 - id: 707
   name: "La combe de la Fontvieille"
   orient: V
   size: 8P
   date: 1947
+- id: 1474
+  name: "Vue de B&eacute;larga"
+  orient: H
+  size: 10F
+  date: 1998
+- id: 268
+  name: "Le lac du Salagou"
+  orient: H
+  size: 10P
+  date: ann&eacute;es 1980
+- id: 2065
+  name: "Le travail de la vigne sur les coteaux"
+  orient: V
+  size: 20F
+  date: ann&eacute;es 1990
+- id: 1484
+  name: "Vue du village de Campagnan"
+  orient: V
+  size: 15F
+  date: ann&eacute;es 1980

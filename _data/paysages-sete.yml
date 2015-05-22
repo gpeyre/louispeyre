@@ -38,3 +38,38 @@
   orient: H
   size: 5F
   date: ann&eacute;es 2000
+- id: 1378
+  name: "Terrasse et parc de la Roseraie &agrave; contrejour"
+  orient: V
+  size: 10P
+  date: ann&eacute;es 1980
+- id: 1380
+  name: "Les quais la nuit"
+  orient: V
+  size: 10F
+  date: ann&eacute;es 2000
+- id: 539
+  name: "Cimeti&egrave;re - S&egrave;te"
+  orient: H
+  size: 12P
+  date: 1969
+- id: 1386
+  name: "Le canal maritime - S&egrave;te"
+  orient: H
+  size: 10P
+  date: 1961
+- id: 1419-a
+  name: "Les baraquettes sur le Mont St-Clair"
+  orient: H
+  size: 15P
+  date: ann&eacute;es 1950
+- id: 1272
+  name: "L&#39;&eacute;tang de Thau"
+  orient: H
+  size: 10M
+  date: ann&eacute;es 1990
+- id: 1523
+  name: "Filets - Etang de Thau"
+  orient: H
+  size: 10P
+  date: 1995
