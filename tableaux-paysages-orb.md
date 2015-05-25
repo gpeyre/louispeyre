@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Louis Peyré"
-description: "Vallée de l'Orb et de l'Hérault"
+description: "Vallées de l'Orb et de l'Hérault"
 header-img: "img/paysages-orb.jpg"
 ---
 

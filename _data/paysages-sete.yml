@@ -29,7 +29,7 @@
   size: 15F
   date: 2011
 - id: 1683
-  name: "Une rue &agrave; S&egrave;te ?"
+  name: "Une rue &agrave; S&egrave;te"
   orient: V
   size: 8P
   date: ann&eacute;es 1990
@@ -49,7 +49,7 @@
   size: 10F
   date: ann&eacute;es 2000
 - id: 539
-  name: "Cimeti&egrave;re - S&egrave;te"
+  name: "Cimeti&egrave;re Marin - S&egrave;te"
   orient: H
   size: 12P
   date: 1969
