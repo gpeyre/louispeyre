@@ -11,9 +11,10 @@ Biographie
 
 Louis Peyré est un peintre figuratif proche du mouvement de la [Nouvelle École de Paris](http://www.universalis.fr/encyclopedie/ecoles-de-paris/3-la-seconde-ecole-de-paris/) des années 1950.
 
-Il naît en 1923 à [Campagnan](http://www.ville-campagnan.fr/), village de l'Hérault près de Montpellier et de Sète. Dès l'âge de neuf ans son éducation se fait à Ardouane, dans la [vallée de l'Orb](http://www.decouvrir-l-herault.com/orb.htm), chez les pères Lazaristes. À dix-huit ans il rentre au Noviciat de Prime Combe.
+Il naît en 1923 à [Campagnan](http://www.ville-campagnan.fr/), village de l'Hérault près de Montpellier et de Sète. Dès l'âge de neuf ans son éducation se fait à Ardouane, dans la [vallée de l'Orb](http://www.decouvrir-l-herault.com/orb.htm), chez les pères Lazaristes. À dix-huit ans il entre au Noviciat de Prime Combe.
 
-Au cours de la Seconde Guerre Mondiale, après s'être enfui des [Chantiers de Jeunesse](http://fr.wikipedia.org/wiki/Chantiers_de_la_jeunesse_fran%C3%A7aise), il s'engage dans l'armée et participe à la [Campagne d'Alsace](http://www.larousse.fr/encyclopedie/divers/campagne_d_Alsace/105011). C'est ensuite qu'il décide de rompre avec sa vocation religieuse. Sa passion pour la peinture devient alors son choix de vie.
+Au cours de la Seconde Guerre Mondiale, après s'être enfui des [Chantiers de Jeunesse](http://fr.wikipedia.org/wiki/Chantiers_de_la_jeunesse_fran%C3%A7aise), 
+il rejoint l'Armée Française  de la Libération  et participe à la  [Campagne d'Alsace](http://www.larousse.fr/encyclopedie/divers/campagne_d_Alsace/105011). C'est ensuite qu'il décide de rompre avec sa vocation religieuse. Sa passion pour la peinture devient alors son choix de vie.
 
 De 1945 à 1947, sa formation artistique se fait aux [Beaux-Arts de Montpellier](http://www.esbama.fr/). Il a pour professeurs les peintres [Camille Descossy](http://www.artcontemporain-languedocroussillon.fr/parution-18.html), Georges Dezeuze et Jean-Aristide Rudel. Il apprend aussi l'art de la céramique à l'école de Fontcarrade et l'enseigne, ainsi que le dessin d'art. Les peintres qui l'intéressent alors sont : [Pierre Tal-Coat](http://fr.wikipedia.org/wiki/Pierre_Tal_Coat), [Maurice Estève](http://fr.wikipedia.org/wiki/Maurice_Est%C3%A8ve), [Albert Gleizes](http://fr.wikipedia.org/wiki/Albert_Gleizes), [André Blondel](http://fr.wikipedia.org/wiki/Andr%C3%A9_Blondel_%28peintre%29) et surtout [Francis Gruber](http://fr.wikipedia.org/wiki/Francis_Gruber).
 
