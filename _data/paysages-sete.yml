@@ -75,5 +75,6 @@
   date: 1995
 - id: hofbauer
   name: "Les chabanettes"
+  orient: H
   size: 15P
   date: 1971
